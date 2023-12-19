@@ -1,5 +1,5 @@
 ## EMNLP '23: Learning Co-Speech Gesture for Multimodal Aphasia Type Detection 
-This codebase contains the python scripts for the model for the EMNLP 2023. https://arxiv.org/pdf/2310.11710.pdf
+This codebase contains the python scripts for the model for the EMNLP 2023. https://aclanthology.org/2023.emnlp-main.577/
 
 ## Environment & Installation Steps
 Python 3.8 & Pytorch 1.12
@@ -21,7 +21,13 @@ We sourced the dataset from AphasiaBank with Institutional Review Board (IRB) ap
 
 ```
 BIBTEX
-will be updated
+@inproceedings{lee2023learning,
+  title={Learning Co-Speech Gesture for Multimodal Aphasia Type Detection},
+  author={Lee, Daeun and Son, Sejung and Jeon, Hyolim and Kim, Seungbae and Han, Jinyoung},
+  booktitle={Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing},
+  pages={9287--9303},
+  year={2023}
+}
 ```
 
 ### Acknowledgments
